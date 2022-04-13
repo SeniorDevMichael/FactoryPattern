@@ -1,0 +1,13 @@
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\bin\Debug\netcoreapp3.1\AbstractFactoryExample1.exe
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\bin\Debug\netcoreapp3.1\AbstractFactoryExample1.deps.json
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\bin\Debug\netcoreapp3.1\AbstractFactoryExample1.runtimeconfig.json
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\bin\Debug\netcoreapp3.1\AbstractFactoryExample1.runtimeconfig.dev.json
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\bin\Debug\netcoreapp3.1\AbstractFactoryExample1.dll
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\bin\Debug\netcoreapp3.1\AbstractFactoryExample1.pdb
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\obj\Debug\netcoreapp3.1\AbstractFactoryExample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\obj\Debug\netcoreapp3.1\AbstractFactoryExample1.AssemblyInfoInputs.cache
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\obj\Debug\netcoreapp3.1\AbstractFactoryExample1.AssemblyInfo.cs
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\obj\Debug\netcoreapp3.1\AbstractFactoryExample1.csproj.CoreCompileInputs.cache
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\obj\Debug\netcoreapp3.1\AbstractFactoryExample1.dll
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\obj\Debug\netcoreapp3.1\AbstractFactoryExample1.pdb
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\AbstractFactoryExample1\obj\Debug\netcoreapp3.1\AbstractFactoryExample1.genruntimeconfig.cache

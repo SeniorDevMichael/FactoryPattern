@@ -1,0 +1,13 @@
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\bin\Debug\netcoreapp3.1\Example2.exe
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\bin\Debug\netcoreapp3.1\Example2.deps.json
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\bin\Debug\netcoreapp3.1\Example2.runtimeconfig.json
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\bin\Debug\netcoreapp3.1\Example2.runtimeconfig.dev.json
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\bin\Debug\netcoreapp3.1\Example2.dll
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\bin\Debug\netcoreapp3.1\Example2.pdb
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\obj\Debug\netcoreapp3.1\Example2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\obj\Debug\netcoreapp3.1\Example2.AssemblyInfoInputs.cache
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\obj\Debug\netcoreapp3.1\Example2.AssemblyInfo.cs
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\obj\Debug\netcoreapp3.1\Example2.csproj.CoreCompileInputs.cache
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\obj\Debug\netcoreapp3.1\Example2.dll
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\obj\Debug\netcoreapp3.1\Example2.pdb
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example2\obj\Debug\netcoreapp3.1\Example2.genruntimeconfig.cache

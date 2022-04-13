@@ -1,0 +1,14 @@
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\bin\Debug\netcoreapp3.1\Example1.exe
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\bin\Debug\netcoreapp3.1\Example1.deps.json
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\bin\Debug\netcoreapp3.1\Example1.runtimeconfig.json
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\bin\Debug\netcoreapp3.1\Example1.runtimeconfig.dev.json
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\bin\Debug\netcoreapp3.1\Example1.dll
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\bin\Debug\netcoreapp3.1\Example1.pdb
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\obj\Debug\netcoreapp3.1\Example1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\obj\Debug\netcoreapp3.1\Example1.AssemblyInfoInputs.cache
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\obj\Debug\netcoreapp3.1\Example1.AssemblyInfo.cs
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\obj\Debug\netcoreapp3.1\Example1.csproj.CoreCompileInputs.cache
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\obj\Debug\netcoreapp3.1\Example1.dll
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\obj\Debug\netcoreapp3.1\Example1.pdb
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\obj\Debug\netcoreapp3.1\Example1.genruntimeconfig.cache
+D:\Mikayil\Developer\COMMON\Clean Architecture\Design Patterns\Factory\FactorySolutions\Example1\obj\Debug\netcoreapp3.1\Example1.csproj.AssemblyReference.cache
